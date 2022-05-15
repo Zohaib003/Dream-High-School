@@ -1,0 +1,23 @@
+{
+  "name": "express_server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zohaib003/Dream-High-School.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zohaib003/Dream-High-School/issues"
+  },
+  "homepage": "https://github.com/Zohaib003/Dream-High-School#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
